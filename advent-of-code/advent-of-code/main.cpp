@@ -1,4 +1,6 @@
+#include "day1.h"
 
-int main(){
-
+int main() {
+	day1 day1;
+	day1.Run();
 }
