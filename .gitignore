@@ -61,6 +61,7 @@
 *.svclog
 *.scc
 *.vsidx
+*.suo
 
 # Visual C++ cache files
 ipch/
@@ -72,3 +73,12 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
+*.user
+*.db-shm
+*.db-wal
+*.json
+*.sln
+*.vcxproj
+*.filters
+*.recipe
+*.idb
